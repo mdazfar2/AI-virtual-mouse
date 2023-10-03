@@ -15,7 +15,7 @@ Change your computer's volume effortlessly by moving your finger left to right.
 No need for physical buttons or keyboard shortcuts – control audio output with grace.
 
 # How It Works
-The Virtual AI Mouse leverages the power of computer vision and machine learning to transform your hand movements into computer commands. Here's how it works::
+The Virtual AI Mouse leverages the power of computer vision and machine learning to transform your hand movements into computer commands. Here's how it works:
 
 **Hand Detection:** The project uses OpenCV and hand-tracking libraries to detect and track the position of your hand in real-time.
 
