@@ -21,4 +21,4 @@ The Virtual AI Mouse leverages the power of computer vision and machine learning
 
 **Gesture Recognition:** Advanced gesture recognition algorithms interpret the movements of your hand, converting them into mouse cursor movements, screen brightness adjustments, or volume control.
 
-**Seamless Integration:** The system seamlessly integrates with your computer's operating system, ensuring a smooth and intuitive user experience..
+**Seamless Integration:** The system seamlessly integrates with your computer's operating system, ensuring a smooth and intuitive user experience.
